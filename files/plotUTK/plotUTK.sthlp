@@ -10,6 +10,17 @@
 
 {pstd}
 https://brand.tennessee.edu/color/
+RGB code for colors:
+color p1      "255 130 0"
+color p2      "0 134 147"
+color p3      "75 75 75"
+color p4      "121 105 142"
+color p5      "128 155 84"
+color p6      "62 58 93"
+color p7      "140 74 29"
+color p8      "76 114 139"
+color p9      "26 67 56"
+color p10     "248 168 56"
 
 {title:Overview}
 
