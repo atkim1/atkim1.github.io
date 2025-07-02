@@ -17,9 +17,9 @@ color p1      "255 130 0"
 
 color p2      "72 159 223"
 
-color p3      "121 105 142"
+color p3      "128 155 84"
 
-color p4      "128 155 84"
+color p4      "121 105 142"
 
 color p5      "75 75 75"
 
