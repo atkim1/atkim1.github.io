@@ -11,29 +11,29 @@
 {pstd}
 https://brand.tennessee.edu/color/
 
-RGB code for colors:
+RGB & Hex code for colors:
 
-color p1      "255 130 0"
+color p1      "255 130 0" | #ff8200
 
-color p2      "72 159 223"
+color p2      "72 159 223" | #489fdf
 
-color p3      "128 155 84"
+color p3      "128 155 84" | #809b54
 
-color p4      "121 105 142"
+color p4      "121 105 142" | #79698e
 
-color p5      "75 75 75"
+color p5      "75 75 75" | #4b4b4b
 
-color p6      "0 134 147"
+color p6      "0 134 147" | #008693
 
-color p7      "62 58 93"
+color p7      "62 58 93" | #3e3a5d
 
-color p8      "140 74 29"
+color p8      "140 74 29" | #8c4a1d
 
-color p9      "76 114 139"
+color p9      "76 114 139" | #4c728b
 
-color p10     "26 67 56"
+color p10     "26 67 56" | #1a4338
 
-color p11     "248 168 56"
+color p11     "248 168 56" | #f8a838
 
 color p12     "0 134 147"
 
