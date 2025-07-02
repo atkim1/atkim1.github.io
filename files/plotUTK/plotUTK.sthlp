@@ -15,7 +15,7 @@ RGB code for colors:
 
 color p1      "255 130 0"
 
-color p2      "0 134 147"
+color p2      "72 159 223"
 
 color p3      "121 105 142"
 
@@ -23,15 +23,17 @@ color p4      "128 155 84"
 
 color p5      "75 75 75"
 
-color p6      "62 58 93"
+color p6      "0 134 147"
 
-color p7      "140 74 29"
+color p7      "62 58 93"
 
-color p8      "76 114 139"
+color p8      "140 74 29"
 
-color p9      "26 67 56"
+color p9      "76 114 139"
 
-color p10     "248 168 56"
+color p10     "26 67 56"
+
+color p11     "248 168 56"
 
 {title:Overview}
 
