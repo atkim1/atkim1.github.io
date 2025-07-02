@@ -291,11 +291,12 @@ color p8      "140 74 29"
 color p9      "76 114 139"
 color p10     "26 67 56"
 color p11     "248 168 56"
-color p12     gs11
-color p13     gs13
-color p14     gs5
-color p15     gs3
-color p16     gs12
+color p12     "0 134 147"
+color p13     gs11
+color p14     gs13
+color p15     gs5
+color p16     gs3
+color p17     gs12
 
 
 
