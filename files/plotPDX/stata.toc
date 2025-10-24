@@ -1,3 +1,4 @@
 v 3
 d Andrew Taeho Kim, University of Pennsylvania
-p plotupenn Graph scheme
+
+p plotPDX Graph scheme
