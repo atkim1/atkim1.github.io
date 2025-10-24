@@ -1,3 +1,4 @@
 v 3
-d Andrew Taeho Kim, University of Pennsylvania
-p plotupenn Graph scheme
+d Andrew Taeho Kim, University of Tennessee, Knoxville
+
+p plotUTK Graph scheme
