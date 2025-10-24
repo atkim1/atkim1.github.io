@@ -291,10 +291,10 @@ color p8      "138 138 103"
 color p9      "255 194 14"
 color p10     "246 139 31"
 color p11     "101 3 96"
-color p12     gs5
-color p13     gs3
-color p14     gs12
-color p15     gs5
+color p12     gs11
+color p13     gs13
+color p14     gs5
+color p15     gs3
 
 
 
@@ -344,5 +344,6 @@ yesno grid_draw_min          no
 yesno grid_draw_max          no
 yesno grid_force_nomin       no
 yesno grid_force_nomax       no
+
 
 
