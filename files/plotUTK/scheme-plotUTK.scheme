@@ -267,9 +267,9 @@ linepattern xyline      shortdash
 linepattern ci          solid
 linepattern ci_area     solid
 
-linepattern grid        dot
-linepattern major_grid  dot
-linepattern minor_grid  dot
+linepattern grid        solid
+linepattern major_grid  solid
+linepattern minor_grid  solid
 
 // yesno extend_axes_low        no
 // yesno extend_axes_high       no
