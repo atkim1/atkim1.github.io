@@ -181,9 +181,9 @@ color xyline gs7
 color tick         gs10
 color minortick    gs10
 
-color grid                   gs15
-color major_grid             gs15
-color minor_grid             gs15
+color grid                   gs10
+color major_grid             gs10
+color minor_grid             gs10
 color axisline     gs10
 
 color matrix         gs6    
@@ -267,9 +267,9 @@ linepattern xyline      shortdash
 linepattern ci          solid
 linepattern ci_area     solid
 
-linepattern grid        solid
-linepattern major_grid  solid
-linepattern minor_grid  solid
+linepattern grid        dot
+linepattern major_grid  dot
+linepattern minor_grid  dot
 
 // yesno extend_axes_low        no
 // yesno extend_axes_high       no
