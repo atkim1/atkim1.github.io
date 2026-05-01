@@ -55,5 +55,5 @@ Stata's default graphic scheme as of version 18 is {cmd:stcolor}. To change back
 
 {title:Authorship}
 
-{pstd} {cmd:plotUTK} is written by Andrew Taeho Kim (Department of Sociology, University of Tennessee, Knoxville). Questions can be sent to atkim@utk.edu. Last updated on 2024/08/01. {p_end}
+{pstd} {cmd:plotUTK} is written by Andrew Taeho Kim (Department of Sociology, University of Tennessee, Knoxville). Questions can be sent to atkim@utk.edu. Last updated on 2026/05/01. {p_end}
 
