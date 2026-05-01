@@ -181,9 +181,9 @@ color xyline gs7
 color tick         gs10
 color minortick    gs10
 
-color grid                   gs10
-color major_grid             gs10
-color minor_grid             gs10
+color grid                   gs15
+color major_grid             gs15
+color minor_grid             gs15
 color axisline     gs10
 
 color matrix         gs6    
@@ -267,9 +267,9 @@ linepattern xyline      shortdash
 linepattern ci          solid
 linepattern ci_area     solid
 
-linepattern grid        dot
-linepattern major_grid  dot
-linepattern minor_grid  dot
+linepattern grid        solid
+linepattern major_grid  solid
+linepattern minor_grid  solid
 
 // yesno extend_axes_low        no
 // yesno extend_axes_high       no
@@ -279,17 +279,17 @@ linepattern minor_grid  dot
 intensity bar 50
 intensity histogram          50
 
-color p       "255 130 0"
-color p1      "75 75 75"
-color p2      "0 134 147"
-color p3      "128 155 84"
-color p4      "121 105 142"
-color p5      "62 58 93"
-color p6      "140 74 29"
-color p7      "76 114 139"
-color p8      "26 67 56"
-color p9      "248 168 56"
-color p10     gs11
+color p       "0 114 178"
+color p1      "213 94 0"
+color p2      "0 158 115"
+color p3      "123 50 148"
+color p4      "230 159 0"
+color p5      "86 180 233"
+color p6      "31 58 95"
+color p7      "140 81 10"
+color p8      "1 102 94"
+color p9      "178 24 43"
+color p10     "107 142 35"
 color p11     gs13
 color p12     gs5
 color p13     gs3
