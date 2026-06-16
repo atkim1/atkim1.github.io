@@ -58,4 +58,4 @@ Stata's default graphic scheme as of version 18 is {cmd:stcolor}. To change back
 
 {title:Authorship}
 
-{pstd} {cmd:plotPDX} is written by Andrew Taeho Kim (Department of Sociology, University of Tennessee, Knoxville). Questions can be sent to atkim@utk.edu. Last updated on 2025/10/23. {p_end}
+{pstd} {cmd:plotPDX} is written by Andrew Taeho Kim (Department of Sociology, University of Tennessee, Knoxville). Questions can be sent to atkim@utk.edu. Last updated on 2026/03/30. {p_end}
