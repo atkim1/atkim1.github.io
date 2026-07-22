@@ -2,7 +2,7 @@
 title: "Links"
 ---
 
-## University and test
+## University
 
 [UTK: Department of Sociology](https://sociology.utk.edu/) $\cdot$
 [UTK: Outlook](https://outlook.cloud.microsoft/mail/)
