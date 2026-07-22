@@ -1,0 +1,49 @@
+---
+title: "Andrew Taeho Kim"
+subtitle: "Assistant Professor of Sociology, University of Tennessee, Knoxville"
+image: images/atkim_sihyun_2_resize.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:atkim@utk.edu
+    - icon: building
+      text: UTK Sociology
+      href: https://sociology.utk.edu/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=A_HSc4kAAAAJ&hl=en
+    # - icon: github
+    #   text: GitHub
+    #   href: https://github.com/atkim1
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-1402-2927
+---
+
+Andrew Taeho Kim is an Assistant Professor in the Department of Sociology at the University of Tennessee, Knoxville (UTK) (2024–Present). Prior to joining the faculty at UTK, he was a Postdoctoral Fellow at the Population Studies Center at the University of Pennsylvania (2023–2024). He received a Ph.D. from the Department of Sociology at the University of Kansas (2023).
+
+## Research Interests
+
+- Labor Markets
+- Stratification and Inequality
+- Race and Ethnicity
+- Asian Americans
+- Gender
+- Marriage and Family
+- Returns to Education
+- Research Methods and Statistics
+
+## Education
+
+#### University of Kansas
+- Ph.D. in Sociology, 2023
+
+#### Korea University
+- M.A. in Sociology, 2013
+
+#### Ohio State University
+- B.A> in Sociology, 2008

@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "cv/**"
+
+website:
+  title: "Andrew Taeho Kim"
+  description: "Andrew Taeho Kim is an Assistant Professor of Sociology at the University of Tennessee, Knoxville."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv/atkim_cv_202607.pdf
+        text: CV
+        target: _blank
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+
+    # right:
+      # - icon: github
+      #   href: https://github.com/atkim1
+      #   aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Andrew Taeho Kim"
+    right: "Built with Quarto and GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    # theme: cyborg
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
