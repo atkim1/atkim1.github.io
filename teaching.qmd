@@ -7,18 +7,18 @@ filters: [details]
 
 ### University of Tennessee, Knoxville
 
-#### SOCI 341: Social Inequalities (Undergraduate)
+#### SOCI 341 Social Inequalities (Undergraduate)
 ::: {.details summary="Description" group="faq"}
 - SOCI 341 is an upper-division sociology course that introduces the sociological study of inequality and stratification. The primary focus is on the contemporary U.S. Topics to be considered include fundamental theoretical
 and methodological issues, social status, social classes, occupations, related cultural and political aspects of inequality, income inequalities, wealth inequality, social mobility, education, poverty, racial and ethnic inequalities, and gender inequality.
 :::
 
-#### SOCI 531: Research Methods in Sociology (Graduate)  
+#### SOCI 531 Research Methods in Sociology (Graduate)  
 ::: {.details summary="Description" group="faq"}
 - SOCI 531 emphasizes the design of social science research and provides an overview of the commonly used social science research methods. The goal is to understand the characteristics of sociologically interesting and rigorous research and to design a research proposal that shares those characteristics. It is intended for master's students who are preparing to begin work on their thesis, but doctoral students may find it useful for beginning their dissertation proposal or preparing a dissertation improvement grant.
 :::
 
-#### SOCI 631: Advanced Quantitative Methods (Graduate)  
+#### SOCI 631 Advanced Quantitative Methods (Graduate)  
 ::: {.details summary="Description" group="faq"}
 - SOCI 631 examines the methods and practices of quantitative analysis in the social sciences, with a particular emphasis on workflow and reproducibility. Students are expected to have a foundational understanding of basic mathematics and some familiarity with undergraduate-level social statistics. Designed as an intermediate statistics course, it serves as a bridge between introductory statistical concepts and advanced analytical techniques. The primary focus is on applying statistical knowledge to real world data, with the goal of producing publishable manuscripts.
 :::
