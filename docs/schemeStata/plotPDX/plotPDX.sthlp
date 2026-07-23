@@ -17,15 +17,15 @@ https://www.pdx.edu/university-communications/tools-and-templates/brand-colors
 {cmd:upenn} changes the default look and feel of Stata graphics.
 
 {pstd}
-Many of the features of plotUPenn are adapted from the excellent black and 
+Many of the features of plotPDX are adapted from the excellent black and 
 white colorscheme plotplain and cleanplots.
 
 {title:Using plotUPenn}
 
 {pstd}
-To change your graphics scheme to {cmd:plotUPenn} use the command: 
+To change your graphics scheme to {cmd:plotPDX} use the command: 
 
-{phang2} {stata set scheme plotUPenn, perm: set scheme plotUPenn, perm}
+{phang2} {stata set scheme plotPDX, perm: set scheme plotPDX, perm}
 
 {pstd}
 Stata's default graphic scheme as of version 17 is {cmd:s2color}. To change back to the default: 
@@ -34,5 +34,5 @@ Stata's default graphic scheme as of version 17 is {cmd:s2color}. To change back
 
 {title:Authorship}
 
-{pstd} {cmd:plotUPenn} is written by Andrew Taeho Kim (Population Studies Center, University of Pennsylvania). Questions can be sent to atkim@sas.upenn.edu {p_end}
+{pstd} {cmd:plotPDX} is written by Andrew Taeho Kim (Department of Sociology, University of Tennessee, Knoxville). Questions can be sent to atkim@utk.edu.
 
