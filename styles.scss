@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+// Fonts
+// @import url('https://cdn.jsdelivr.net/npm/pretendard-std@1.3.9/dist/web/static/pretendard-std.min.css'); // Pretendard
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); // Inter
+
+// Colors
+$UTKorange: #FF8200;
+$UTKsummitblue: #489FDF;
+$UTKgray: #4B4B4B;
+$UTKlightgray: #f7f7f7;
+$UTKpatina: #008693;
+$UTKripple: #4C728B;
+$UTKforest: #1A4338;
+$UTKiris: #79698E;
+
+// Base document colors
+$navbar-bg: $UTKgray;      // navbar
+// $navbar-fg: $UTKorange; // navbar foreground elements
+$navbar-hl: $UTKorange;     // highlight color when hovering over navbar links
+$body-bg: $UTKlightgray;  // page background 
+// $body-color: $gray;      // page text 
+// $footer-bg: $cream;      // footer 
+$link-color: $UTKiris;    // hyperlinks 

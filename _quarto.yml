@@ -6,9 +6,12 @@ project:
     - "schemeStata/**"
 
 website:
-  title: "Andrew Taeho Kim"
+  title: "ATK"
   description: "Andrew Taeho Kim is an Assistant Professor of Sociology at the University of Tennessee, Knoxville."
+  favicon: images/800px-UT_Knoxville_logo_2015.png
   navbar:
+    title: false
+    logo: images/800px-UT_Knoxville_logo_2015.png
     left:
       - href: index.qmd
         text: Home
@@ -29,13 +32,17 @@ website:
 
   page-footer:
     left: "© 2026 Andrew Taeho Kim"
-    right: "Built with Quarto and GitHub Pages"
+    right: "Built with Quarto and GitHub"
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      - styles.scss
     # theme: cyborg
-    css: styles.css
+    # css: styles.css
+    mainfont: Montserrat
+    fontsize: 0.95rem
     toc: true
     smooth-scroll: true
     link-external-newwindow: true
