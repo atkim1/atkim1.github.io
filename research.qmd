@@ -48,7 +48,7 @@ Gambol, Brenda, Rebecca Karam, and Andrew Taeho Kim
 **Six Decades of Educational Assortative Mating in South Korea: A Research Note**  
 *Demography* 62(6): 1809–1820  
 Park, Hyunjoon and Andrew Taeho Kim  
-[Article](https://doi.org/10.1215/00703370-12321371) · [Appendix](material/Park_Kim2025_Appendix.pdf)
+[Article](https://doi.org/10.1215/00703370-12321371) · [Appendix](appendix/Park_Kim2025_Appendix.pdf)
 
 ::: {.details summary="Abstract" group="faq"}
 - This research note focuses on accurately documenting the trends in educational resemblance between husbands and wives in South Korea over six decades, from 1960 to 2020. Having undergone rapid social changes in recent history, including industrialization, economic development, and educational expansion, Korea offers a compelling context for studying long-term changes in educational assortative mating across different stages of development. Using 2% microsamples from 13 census datasets collected between 1960 and 2020, we construct marriage tables cross-classifying six educational levels of husbands and wives, both aged 25 to 45. Log-multiplicative layer effect models are applied to assess the husband‒wife association, controlling for changing marginal distributions of both spouses’ educational levels. Our analysis of 843,527 married couples shows that the association between husbands’ and wives’ education increases to a peak around 1995, after which it continuously declines. The inverted U-shape trend remains robust whether analyzing current or first marriages of varying duration and across different types of log-linear models. We provide theoretical and empirical discussions of major macro-level trends, especially the timing and gendered patterns of educational expansion, in Korea to contextualize the observed patterns of educational assortative mating.
@@ -115,7 +115,7 @@ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/news/ku/2020/o
 *Korean Journal of Sociology* 54(4): 161–205 (in Korean)  
 Kim, ChangHwan and Andrew Taeho Kim  
 김창환, 김태호. "세대 불평등은 증가하였는가? 세대 내, 세대 간 불평등 변화 요인 분석, 1999–2019."  
-[Article](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002656961) · [Appendix](material/Kim_Kim2020_Appendix.pdf)
+[Article](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002656961) · [Appendix](appendix/Kim_Kim2020_Appendix.pdf)
 
 ::: {.details summary="Abstract" group="faq"}
 - 세대 불평등이 증가하였다는 기존 연구는 주로 가계동향조사를 이용하여 연령 효과를 측정하였다. 하지만 기존 방법은 교육, 가구 구성 등의 공변수를 통제하지 않아 생략변수편향으로부터 자유롭지 않다. 세대 간 불평등의 증감이 세대 분포의 변화 때문인지 세대 간 소득격차에 의한 것인지도 구분하지 않고 있다. 노동시장에서의 세대 불평등을 측정하기 위해서는 개인 노동시장 소득에 기반하여 세대 효과를 추정하여야 하지만 기존 연구는 대부분 가구소득에 기반하고 있다. 본 연구는 1999~2019년 가계동향조사를 개인단위 노동시장 소득 자료로 전환하여 소득 불평등에 영향을 끼치는 세대 간 소득 격차의 순효과를 분석한다. 분석 결과, 세대 간 불평등이 증가했다는 증거를 찾을 수 없었다. 핵심노동인구를 대상으로 개인 노동시장 소득 불평등을 세대 간, 세대 내 불평등으로 요소분해한 결과 세대 내 불평등은 줄었지만, 세대 간 불평등은 증가하지 않았다. 소득 불평등 변화를 연령과 교육 효과를 포함한 다변량 요인들의 구성효과와 순효과로 좀 더 세분하여 요소분해하였지만, 마찬가지로 연령 효과가 증가하였다는 증거를 찾을 수 없었다. 86세대의 경제지배권 강화가 소득 불평등 증가의 원인이라는 증거도 찾을 수 없었다. 86세대의 소득이 증가하였지만, 그 효과는 소득상층 노동시장이 아니라 소득하층 노동시장에서 지배적이었다. 2009년 이후 세대 불평등의 증가는 핵심노동인구 내부의 연령 간 소득 격차 증가 때문이 아니라 고령인구의 구성 효과, 그 중에서도 저학력 고령인구의 구성 효과 때문이다. 2009년 이후 증가한 세대 불평등은 고령인구의 증가로 인한 착시이지 핵심노동인구의 개인 노동시장 소득 불평등 증가 때문이 아니다. 이러한 결과는 세대론으로 전반적인 소득 불평등 변화를 설명하는 기획의 타당성을 의심하게 만든다.
