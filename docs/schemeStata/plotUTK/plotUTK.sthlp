@@ -2,7 +2,7 @@
 {* 2024-08-01 Andrew Taeho Kim}{...}
 {title:Title}
 
-{p2colset 5 16 16 1}{...}
+{p2colset 5 20 22 2}{...}
 {p2col:{cmd:plotUTK} {hline 2}}Graphics scheme that implements brand colors of University of Tennessee, Knoxville. {p_end}
 {p2colreset}{...}
 
