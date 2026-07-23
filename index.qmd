@@ -20,7 +20,7 @@ about:
     #   text: GitHub
     #   href: https://github.com/atkim1
     - icon: "{{< aa orcid >}}"
-      text: ORCID
+      text: "{{< aa orcid >}} ORCID"
       href: https://orcid.org/0000-0002-1402-2927
 ---
 
