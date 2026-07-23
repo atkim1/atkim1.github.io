@@ -42,5 +42,6 @@ format:
     mainfont: "Lato"
     fontsize: 0.95rem
     toc: true
+    toc-expand: 3
     smooth-scroll: true
     link-external-newwindow: true
