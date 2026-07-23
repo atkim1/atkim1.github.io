@@ -15,8 +15,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
+      - href: publication.qmd
+        text: Publication
       - href: cv/atkim_cv_202607.pdf
         text: CV
         target: _blank

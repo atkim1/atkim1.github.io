@@ -1,9 +1,9 @@
 ---
-title: "Research"
+title: "Publication"
 filters: [details]
 ---
 
-## Peer-Reviewed Publications
+## Peer-Reviewed
 
 ### 2026
 
