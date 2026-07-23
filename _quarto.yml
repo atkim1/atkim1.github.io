@@ -39,10 +39,7 @@ format:
     theme: 
       - cosmo
       - styles.scss
-    # theme: cyborg
-    # css: styles.css
-    mainfont: Montserrat
-    fontsize: 0.95rem
+    mainfont: "Lato"
     toc: true
     smooth-scroll: true
     link-external-newwindow: true
