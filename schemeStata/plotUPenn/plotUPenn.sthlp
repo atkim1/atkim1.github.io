@@ -2,7 +2,7 @@
 {* 2024-04-25 Andrew Taeho Kim}{...}
 {title:Title}
 
-{p2colset 5 20 20 1}{...}
+{p2colset 5 20 22 2}{...}
 {p2col:{cmd:plotUPenn} {hline 2}}Graphics scheme that implements brand colors of the University of Pennsylvania. {p_end}
 {p2colreset}{...}
 
