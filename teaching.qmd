@@ -7,7 +7,7 @@ filters: [details]
 
 ### University of Tennessee, Knoxville
 
-#### SOCI 341: Social Inequalities (Undergraduate)  
+#### SOCI 341: Social Inequalities (Undergraduate)
 ::: {.details summary="Description" group="faq"}
 - SOCI 341 is an upper-division sociology course that introduces the sociological study of inequality and stratification. The primary focus is on the contemporary U.S. Topics to be considered include fundamental theoretical
 and methodological issues, social status, social classes, occupations, related cultural and political aspects of inequality, income inequalities, wealth inequality, social mobility, education, poverty, racial and ethnic inequalities, and gender inequality.
