@@ -31,7 +31,7 @@ ${}\circ{}$ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/ne
 
 ### Has Generational Inequality Increased? Decomposition of the Between- and Within-Generational Inequality, 1999~2019
 {{< fa user >}} Kim, ChangHwan and Andrew Taeho Kim  
-{{< ai obp >}} *Korean Journal of Sociology* 54(4): 161--205
+{{< ai obp >}} *Korean Journal of Sociology* 54(4): 161--205  
 {{< ai doi >}} [10.1111/ijjs.12073](https://doi.org/10.1111/ijjs.12073)  
 김창환, 김태호. "세대 불평등은 증가하였는가? 세대 내, 세대 간 불평등 변화 요인 분석, 1999~2019." <한국사회학>  
 
@@ -52,13 +52,13 @@ ${}\circ{}$ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/ne
 
 ### Enhanced Complexity and Systems Theory: T. Parsons and N. Luhmann
 {{< fa user >}} Kim, Andrew Taeho  
-{{< ai obp >}} *Korean Journal of Converging Humanities* 3(2): 77--90
+{{< ai obp >}} *Korean Journal of Converging Humanities* 3(2): 77--90  
 {{< ai doi >}} [10.14729/converging.k.2015.3.2.77](https://doi.org/10.14729/converging.k.2015.3.2.77)  
 김태호. "복잡성의 증대와 체계이론의 전환: 파슨스(T. Parsons)와 루만(N. Luhmann)의 비교를 중심으로." <한국융합인문학>  
 
 ### On Alienation in the Age of Uncertainty: Changes in Academic Sensibility
 {{< fa user >}} Kim, Andrew Taeho  
-{{< ai obp >}} *Korean Journal of Converging Humanities* 3(1): 7--24
+{{< ai obp >}} *Korean Journal of Converging Humanities* 3(1): 7--24  
 {{< ai doi >}} [10.14729/converging.k.2015.3.1.7](https://doi.org/10.14729/converging.k.2015.3.1.7)  
 김태호. "불확실성 시대의 낯설어짐에 대해서: 학문적 감수성의 변화를 중심으로." <한국융합인문학>  
 
