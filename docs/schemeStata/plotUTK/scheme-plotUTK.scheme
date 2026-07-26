@@ -280,21 +280,21 @@ intensity bar 50
 intensity histogram          50
 
 color p       "255 130 000"
-color p1      "075 075 075"
-color p2      "000 134 147"
+color p1      "255 130 000"
+color p2      "072 159 223"
 color p3      "128 155 084"
 color p4      "121 105 142"
-color p5      "062 058 093"
-color p6      "140 074 029"
-color p7      "076 114 139"
-color p8      "026 067 056"
-color p9      "248 168 056"
-color p10     gs11
-color p11     gs13
-color p12     gs5
-color p13     gs3
-color p14     gs12
-color p15     gs5
+color p5      "075 075 075"
+color p6      "000 134 147"
+color p7      "062 058 093"
+color p8      "140 074 029"
+color p9      "076 114 139"
+color p10     "026 067 056"
+color p11     "248 168 056"
+color p12     gs11
+color p13     gs13
+color p14     gs5
+color p15     gs3
 
 
 
