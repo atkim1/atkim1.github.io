@@ -44,6 +44,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-62e966a65b19a93a8e98e551319de248.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,6 +77,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -179,9 +212,9 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="section">2026</h2>
 <section id="geography-coethnic-concentration-and-earnings-disadvantage-of-asian-american-men" class="level3">
 <h3 class="anchored" data-anchor-id="geography-coethnic-concentration-and-earnings-disadvantage-of-asian-american-men">Geography, Coethnic Concentration, and Earnings Disadvantage of Asian American Men</h3>
-<p><em>RSF: The Russell Sage Foundation Journal of the Social Sciences</em> 12(3): 50–74<br>
-Kim, Andrew Taeho and ChangHwan Kim<br>
-<a href="https://www.rsfjournal.org/content/12/3/50">Article</a></p>
+<p><i class="fa-solid fa-user" aria-label="user"></i> Kim, Andrew Taeho and ChangHwan Kim<br>
+<i class="ai  ai-obp" aria-label="obp"></i> <em>RSF: The Russell Sage Foundation Journal of the Social Sciences</em> 12(3): 50–74<br>
+<i class="ai  ai-doi" aria-label="doi"></i> <a href="https://doi.org/10.7758/RSF.2026.12.3.03">10.7758/RSF.2026.12.3.03</a></p>
 <details aria-label="Abstract" id="details-1" name="faq">
 <summary>Abstract</summary>
 <ul>
@@ -191,9 +224,9 @@ Kim, Andrew Taeho and ChangHwan Kim<br>
 </section>
 <section id="persistent-educational-advantages-of-asian-immigrants-children-1940-to-20152019" class="level3">
 <h3 class="anchored" data-anchor-id="persistent-educational-advantages-of-asian-immigrants-children-1940-to-20152019">Persistent Educational Advantages of Asian Immigrants’ Children, 1940 to 2015–2019</h3>
-<p><em>International Migration Review</em> 60(2): 900–932<br>
-Kim, ChangHwan and Andrew Taeho Kim<br>
-<a href="https://journals.sagepub.com/doi/10.1177/01979183241267983">Article</a></p>
+<p><i class="fa-solid fa-user" aria-label="user"></i> Kim, ChangHwan and Andrew Taeho Kim<br>
+<i class="ai  ai-obp" aria-label="obp"></i> <em>International Migration Review</em> 60(2): 900–932<br>
+<i class="ai  ai-doi" aria-label="doi"></i> <a href="https://doi.org/10.1177/01979183241267983">10.1177/01979183241267983</a></p>
 <details aria-label="Abstract" id="details-2" name="faq">
 <summary>Abstract</summary>
 <ul>
@@ -203,9 +236,10 @@ Kim, ChangHwan and Andrew Taeho Kim<br>
 </section>
 <section id="the-rise-in-occupational-coding-mismatches-and-occupational-mobility-19912020" class="level3">
 <h3 class="anchored" data-anchor-id="the-rise-in-occupational-coding-mismatches-and-occupational-mobility-19912020">The Rise in Occupational Coding Mismatches and Occupational Mobility, 1991–2020</h3>
-<p><em>Sociological Methods &amp; Research</em> 55(2): 659–699<br>
-Kim, Andrew Taeho and ChangHwan Kim<br>
-<a href="https://journals.sagepub.com/doi/10.1177/00491241241303517">Article</a> · <a href="https://osf.io/2u8rx/">Replication package</a></p>
+<p><i class="fa-solid fa-user" aria-label="user"></i> Kim, Andrew Taeho and ChangHwan Kim<br>
+<i class="ai  ai-obp" aria-label="obp"></i> <em>Sociological Methods &amp; Research</em> 55(2): 659–699<br>
+<i class="ai  ai-doi" aria-label="doi"></i> <a href="https://doi.org/10.1177/00491241241303517">10.1177/00491241241303517</a><br>
+<i class="ai  ai-osf" aria-label="osf"></i> Replication Package: <a href="https://osf.io/2u8rx/">https://osf.io/2u8rx/</a></p>
 <details aria-label="Abstract" id="details-3" name="faq">
 <summary>Abstract</summary>
 <ul>
@@ -215,9 +249,9 @@ Kim, Andrew Taeho and ChangHwan Kim<br>
 </section>
 <section id="nursing-as-ethnic-capital-perceptions-of-intergenerational-niching-among-filipino-americans" class="level3">
 <h3 class="anchored" data-anchor-id="nursing-as-ethnic-capital-perceptions-of-intergenerational-niching-among-filipino-americans">Nursing as Ethnic Capital: Perceptions of Intergenerational Niching among Filipino Americans</h3>
-<p><em>Journal of Ethnic and Migration Studies</em> 52(5): 1218–1242<br>
-Gambol, Brenda, Rebecca Karam, and Andrew Taeho Kim<br>
-<a href="https://www.tandfonline.com/doi/full/10.1080/1369183X.2025.2584342">Article</a></p>
+<p><i class="fa-solid fa-user" aria-label="user"></i> Gambol, Brenda, Rebecca Karam, and Andrew Taeho Kim<br>
+<i class="ai  ai-obp" aria-label="obp"></i> <em>Journal of Ethnic and Migration Studies</em> 52(5): 1218–1242<br>
+<i class="ai  ai-doi" aria-label="doi"></i> <a href="https://doi.org/10.1080/1369183X.2025.2584342">10.1080/1369183X.2025.2584342</a></p>
 <details aria-label="Abstract" id="details-4" name="faq">
 <summary>Abstract</summary>
 <ul>
@@ -230,9 +264,10 @@ Gambol, Brenda, Rebecca Karam, and Andrew Taeho Kim<br>
 <h2 class="anchored" data-anchor-id="section-1">2025</h2>
 <section id="six-decades-of-educational-assortative-mating-in-south-korea-a-research-note" class="level3">
 <h3 class="anchored" data-anchor-id="six-decades-of-educational-assortative-mating-in-south-korea-a-research-note">Six Decades of Educational Assortative Mating in South Korea: A Research Note</h3>
-<p><em>Demography</em> 62(6): 1809–1820<br>
-Park, Hyunjoon and Andrew Taeho Kim<br>
-<a href="https://doi.org/10.1215/00703370-12321371">Article</a> · <a href="appendix/Park_Kim2025_Appendix.pdf">Appendix</a></p>
+<p><i class="fa-solid fa-user" aria-label="user"></i> Park, Hyunjoon and Andrew Taeho Kim<br>
+<i class="ai  ai-obp" aria-label="obp"></i> <em>Demography</em> 62(6): 1809–1820<br>
+<i class="ai  ai-doi" aria-label="doi"></i> <a href="https://doi.org/10.1215/00703370-12321371">10.1215/00703370-12321371</a><br>
+<i class="ai  ai-archive" aria-label="archive"></i> Appendix: <a href="appendix/Park_Kim2025_Appendix.pdf">https://atkim1.github.io/appendix/Park_Kim2025_Appendix.pdf</a></p>
 <details aria-label="Abstract" id="details-5" name="faq">
 <summary>Abstract</summary>
 <ul>
@@ -242,9 +277,10 @@ Park, Hyunjoon and Andrew Taeho Kim<br>
 </section>
 <section id="double-disadvantage-of-black-hispanic-and-asian-american-women-in-earnings-revisited" class="level3">
 <h3 class="anchored" data-anchor-id="double-disadvantage-of-black-hispanic-and-asian-american-women-in-earnings-revisited">Double Disadvantage of Black, Hispanic, and Asian American Women in Earnings, Revisited</h3>
-<p><em>Research in Social Stratification and Mobility</em> 96: 101018<br>
-Kim, Andrew Taeho and ChangHwan Kim<br>
-<a href="https://doi.org/10.1016/j.rssm.2025.101018">Article</a></p>
+<p><i class="fa-solid fa-user" aria-label="user"></i> Kim, Andrew Taeho and ChangHwan Kim<br>
+<i class="ai  ai-obp" aria-label="obp"></i> <em>Research in Social Stratification and Mobility</em> 96: 101018<br>
+<i class="ai  ai-doi" aria-label="doi"></i> <a href="https://doi.org/10.1016/j.rssm.2025.101018">10.1016/j.rssm.2025.101018</a><br>
+<span class="math inline">\({}\circ{}\)</span> Poster Presentation Winner, Annual Meeting of the Population Association of America, 2019</p>
 <details aria-label="Abstract" id="details-6" name="faq">
 <summary>Abstract</summary>
 <ul>
@@ -257,9 +293,9 @@ Kim, Andrew Taeho and ChangHwan Kim<br>
 <h2 class="anchored" data-anchor-id="section-2">2024</h2>
 <section id="aging-and-the-rise-in-bottom-income-inequality-in-korea" class="level3">
 <h3 class="anchored" data-anchor-id="aging-and-the-rise-in-bottom-income-inequality-in-korea">Aging and the Rise in Bottom Income Inequality in Korea</h3>
-<p><em>Research in Social Stratification and Mobility</em> 89: 100882<br>
-Kim, ChangHwan and Andrew Taeho Kim<br>
-<a href="https://doi.org/10.1016/j.rssm.2023.100882">Article</a></p>
+<p><i class="fa-solid fa-user" aria-label="user"></i> Kim, ChangHwan and Andrew Taeho Kim<br>
+<i class="ai  ai-obp" aria-label="obp"></i> <em>Research in Social Stratification and Mobility</em> 89: 100882<br>
+<i class="ai  ai-doi" aria-label="doi"></i> <a href="https://doi.org/10.1016/j.rssm.2023.100882">10.1016/j.rssm.2023.100882</a></p>
 <details aria-label="Abstract" id="details-7" name="faq">
 <summary>Abstract</summary>
 <ul>
@@ -272,9 +308,9 @@ Kim, ChangHwan and Andrew Taeho Kim<br>
 <h2 class="anchored" data-anchor-id="section-3">2023</h2>
 <section id="is-hyper-selectivity-a-root-of-asian-american-childrens-success" class="level3">
 <h3 class="anchored" data-anchor-id="is-hyper-selectivity-a-root-of-asian-american-childrens-success">Is Hyper-selectivity a Root of Asian American Children’s Success?</h3>
-<p><em>Social Science Research</em> 113: 102886<br>
-Kim, ChangHwan and Andrew Taeho Kim<br>
-<a href="https://doi.org/10.1016/j.ssresearch.2023.102886">Article</a></p>
+<p><i class="fa-solid fa-user" aria-label="user"></i> Kim, ChangHwan and Andrew Taeho Kim<br>
+<i class="ai  ai-obp" aria-label="obp"></i> <em>Social Science Research</em> 113: 102886<br>
+<i class="ai  ai-doi" aria-label="doi"></i> <a href="https://doi.org/10.1016/j.ssresearch.2023.102886">10.1016/j.ssresearch.2023.102886</a></p>
 <details aria-label="Abstract" id="details-8" name="faq">
 <summary>Abstract</summary>
 <ul>
