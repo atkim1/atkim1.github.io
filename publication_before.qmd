@@ -7,7 +7,7 @@ filters: [details]
 
 ### Who Is the “She” in the Pandemic “She-Cession”? Variation in COVID-19 Labor Market Outcomes by Gender and Family Status
 {{< fa user >}} Kim, Andrew Taeho, Matt Erickson, Yurong Zhang, and ChangHwan Kim  
-{{< ai obp >}} *Population Research and Policy Review* 41(3): 1325–1358  
+{{< ai obp >}} *Population Research and Policy Review* 41(3): 1325--1358  
 {{< ai doi >}} [10.1007/s11113-021-09693-0](https://doi.org/10.1007/s11113-021-09693-0)  
 ${}\circ{}$ Media coverage: [Journalist's Resource](https://journalistsresource.org/race-and-gender/motherhood-penalty-research-covid/)  
 
@@ -18,7 +18,7 @@ ${}\circ{}$ Media coverage: [Journalist's Resource](https://journalistsresource.
 ## 2021
 
 ### COVID-19 and the Decline in Asian American Employment
-{{< fa user >}} Kim, Andrew Taeho, ChangHwan Kim, Scott E. Tuttle, and Yurong Zhang  
+{{< fa user >}} Kim, Andrew Taeho, ChangHwan Kim, Scott E. Tuttle, and Yurong Zhang (Equal Authorship)  
 {{< ai obp >}} *Research in Social Stratification and Mobility* 71: 100563  
 {{< ai doi >}} [10.1016/j.rssm.2020.100563](https://doi.org/10.1016/j.rssm.2020.100563)  
 ${}\circ{}$ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/news/ku/2020/oct/21/ku-study-finds-asian-americans-hit-hardest-by-covid-19-unemployment-but-exactly-why-is-unclear/), [Donga Science](https://www.dongascience.com/news.php?idx=40864), [Business Insider](https://www.businessinsider.com/asian-americans-hit-hardest-by-covid-19-related-unemployment-study-2020-10), [Science News](https://www.sciencenews.org/article/asian-americans-science-data-invisible-demography-violence)  
@@ -29,11 +29,11 @@ ${}\circ{}$ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/ne
 
 ## 2020
 
-### Has Generational Inequality Increased? Decomposition of the Between- and Within-Generational Inequality, 1999–2019
+### Has Generational Inequality Increased? Decomposition of the Between- and Within-Generational Inequality, 1999~2019
 {{< fa user >}} Kim, ChangHwan and Andrew Taeho Kim  
-{{< ai obp >}} *Korean Journal of Sociology* 54(4): 161–205 (in Korean)  
+{{< ai obp >}} *Korean Journal of Sociology* 54(4): 161--205
 {{< ai doi >}} [10.1111/ijjs.12073](https://doi.org/10.1111/ijjs.12073)  
-김창환, 김태호. "세대 불평등은 증가하였는가? 세대 내, 세대 간 불평등 변화 요인 분석, 1999–2019."  
+김창환, 김태호. "세대 불평등은 증가하였는가? 세대 내, 세대 간 불평등 변화 요인 분석, 1999~2019." <한국사회학>  
 
 ::: {.details summary="Abstract" group="faq"}
 - 세대 불평등이 증가하였다는 기존 연구는 주로 가계동향조사를 이용하여 연령 효과를 측정하였다. 하지만 기존 방법은 교육, 가구 구성 등의 공변수를 통제하지 않아 생략변수편향으로부터 자유롭지 않다. 세대 간 불평등의 증감이 세대 분포의 변화 때문인지 세대 간 소득격차에 의한 것인지도 구분하지 않고 있다. 노동시장에서의 세대 불평등을 측정하기 위해서는 개인 노동시장 소득에 기반하여 세대 효과를 추정하여야 하지만 기존 연구는 대부분 가구소득에 기반하고 있다. 본 연구는 1999~2019년 가계동향조사를 개인단위 노동시장 소득 자료로 전환하여 소득 불평등에 영향을 끼치는 세대 간 소득 격차의 순효과를 분석한다. 분석 결과, 세대 간 불평등이 증가했다는 증거를 찾을 수 없었다. 핵심노동인구를 대상으로 개인 노동시장 소득 불평등을 세대 간, 세대 내 불평등으로 요소분해한 결과 세대 내 불평등은 줄었지만, 세대 간 불평등은 증가하지 않았다. 소득 불평등 변화를 연령과 교육 효과를 포함한 다변량 요인들의 구성효과와 순효과로 좀 더 세분하여 요소분해하였지만, 마찬가지로 연령 효과가 증가하였다는 증거를 찾을 수 없었다. 86세대의 경제지배권 강화가 소득 불평등 증가의 원인이라는 증거도 찾을 수 없었다. 86세대의 소득이 증가하였지만, 그 효과는 소득상층 노동시장이 아니라 소득하층 노동시장에서 지배적이었다. 2009년 이후 세대 불평등의 증가는 핵심노동인구 내부의 연령 간 소득 격차 증가 때문이 아니라 고령인구의 구성 효과, 그 중에서도 저학력 고령인구의 구성 효과 때문이다. 2009년 이후 증가한 세대 불평등은 고령인구의 증가로 인한 착시이지 핵심노동인구의 개인 노동시장 소득 불평등 증가 때문이 아니다. 이러한 결과는 세대론으로 전반적인 소득 불평등 변화를 설명하는 기획의 타당성을 의심하게 만든다.
@@ -45,26 +45,26 @@ ${}\circ{}$ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/ne
 
 ### Effects of Neighborhood Inequality on the Relative Distance between Objective Position and Subjective Identification
 {{< fa user >}} Kim, Andrew Taeho, Muncho Kim, and Seungho Ryu  
-{{< ai obp >}} *International Journal of Japanese Sociology* 27(1): 85–106  
+{{< ai obp >}} *International Journal of Japanese Sociology* 27(1): 85--106  
 {{< ai doi >}} [10.1111/ijjs.12073](https://doi.org/10.1111/ijjs.12073)  
 
 ## 2015
 
 ### Enhanced Complexity and Systems Theory: T. Parsons and N. Luhmann
 {{< fa user >}} Kim, Andrew Taeho  
-{{< ai obp >}} *Korean Journal of Converging Humanities* 3(2): 77–90 (in Korean)  
+{{< ai obp >}} *Korean Journal of Converging Humanities* 3(2): 77--90
 {{< ai doi >}} [10.14729/converging.k.2015.3.2.77](https://doi.org/10.14729/converging.k.2015.3.2.77)  
-김태호. "복잡성의 증대와 체계이론의 전환: 파슨스(T. Parsons)와 루만(N. Luhmann)의 비교를 중심으로."  
+김태호. "복잡성의 증대와 체계이론의 전환: 파슨스(T. Parsons)와 루만(N. Luhmann)의 비교를 중심으로." <한국융합인문학>  
 
 ### On Alienation in the Age of Uncertainty: Changes in Academic Sensibility
 {{< fa user >}} Kim, Andrew Taeho  
-{{< ai obp >}} *Korean Journal of Converging Humanities* 3(1): 7–24 (in Korean)  
+{{< ai obp >}} *Korean Journal of Converging Humanities* 3(1): 7--24
 {{< ai doi >}} [10.14729/converging.k.2015.3.1.7](https://doi.org/10.14729/converging.k.2015.3.1.7)  
-김태호. "불확실성 시대의 낯설어짐에 대해서: 학문적 감수성의 변화를 중심으로."  
+김태호. "불확실성 시대의 낯설어짐에 대해서: 학문적 감수성의 변화를 중심으로." <한국융합인문학>  
 
 ## 2014
 
 ### The Communication Adaptiveness and Power Dynamics of the State, the Market, and Civil Society in the Information Age: The Case of Korea
 {{< fa user >}} Kim, Jongkil, Jongtae Kim, and Andrew Taeho Kim  
-{{< ai obp >}} *Information, Communication & Society* 17(8): 956–973  
+{{< ai obp >}} *Information, Communication & Society* 17(8): 956--973  
 {{< ai doi >}} [10.1080/1369118X.2013.869241](https://doi.org/10.1080/1369118X.2013.869241)  
