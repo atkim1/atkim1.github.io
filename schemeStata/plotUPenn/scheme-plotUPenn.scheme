@@ -283,12 +283,12 @@ color p       "001 031 091"
 color p1      "001 031 091"
 color p2      "153 000 000"
 color p3      "178 182 167"
-color p4      "2 108 181"
-color p5      "150 34 125"
-color p6      "6 170 252"
-color p7      "198 9 59"
+color p4      "002 108 181"
+color p5      "150 034 125"
+color p6      "006 170 252"
+color p7      "198 009 059"
 color p8      "215 188 106"
-color p9      "45 44 65"
+color p9      "045 044 065"
 color p10     gs11
 color p11     gs13
 color p12     gs5
