@@ -279,16 +279,16 @@ linepattern minor_grid  dot
 intensity bar 50
 intensity histogram          50
 
-color p       "109 141 036"
-color p1      "109 141 036"
-color p2      "198 211 000"
-color p3      "230 073 039"
-color p4      "033 057 033"
-color p5      "000 138 193"
+color p       "109 141 36"
+color p1      "109 141 36"
+color p2      "198 211 0"
+color p3      "230 73 039"
+color p4      "33 57 33"
+color p5      "0 138 193"
 color p6      "165 223 249"
 color p7      "138 138 103"
-color p8      "255 194 014"
-color p9      "246 139 031"
+color p8      "255 194 14"
+color p9      "246 139 31"
 color p10     gs11
 color p11     gs13
 color p12     gs5
