@@ -7,7 +7,7 @@ filters: [details]
 
 ### Geography, Coethnic Concentration, and Earnings Disadvantage of Asian American Men
 {{< fa regular user >}} Kim, Andrew Taeho and ChangHwan Kim  
-{{< ai obp >}} *RSF: The Russell Sage Foundation Journal of the Social Sciences* 12(3): 50--74  
+{{< fa book >}} *RSF: The Russell Sage Foundation Journal of the Social Sciences* 12(3): 50--74  
 {{< ai doi-square >}} [10.7758/RSF.2026.12.3.03](https://doi.org/10.7758/RSF.2026.12.3.03)  
 
 ::: {.details summary="Abstract" group="faq"}
@@ -16,7 +16,7 @@ filters: [details]
 
 ### Persistent Educational Advantages of Asian Immigrants' Children, 1940 to 2015--2019
 {{< fa regular user >}} Kim, ChangHwan and Andrew Taeho Kim  
-{{< ai obp >}} *International Migration Review* 60(2): 900--932  
+{{< fa book >}} *International Migration Review* 60(2): 900--932  
 {{< ai doi-square >}} [10.1177/01979183241267983](https://doi.org/10.1177/01979183241267983)  
 
 ::: {.details summary="Abstract" group="faq"}
@@ -25,7 +25,7 @@ filters: [details]
 
 ### The Rise in Occupational Coding Mismatches and Occupational Mobility, 1991--2020
 {{< fa regular user >}} Kim, Andrew Taeho and ChangHwan Kim  
-{{< ai obp >}} *Sociological Methods & Research* 55(2): 659--699  
+{{< fa book >}} *Sociological Methods & Research* 55(2): 659--699  
 {{< ai doi-square >}} [10.1177/00491241241303517](https://doi.org/10.1177/00491241241303517)  
 {{< ai osf >}} Replication Package: [https://osf.io/2u8rx/](https://osf.io/2u8rx/)  
 
@@ -35,7 +35,7 @@ filters: [details]
 
 ### Nursing as Ethnic Capital: Perceptions of Intergenerational Niching among Filipino Americans
 {{< fa regular user >}} Gambol, Brenda, Rebecca Karam, and Andrew Taeho Kim  
-{{< ai obp >}} *Journal of Ethnic and Migration Studies* 52(5): 1218--1242  
+{{< fa book >}} *Journal of Ethnic and Migration Studies* 52(5): 1218--1242  
 {{< ai doi-square >}} [10.1080/1369183X.2025.2584342](https://doi.org/10.1080/1369183X.2025.2584342)  
 
 ::: {.details summary="Abstract" group="faq"}
@@ -46,7 +46,7 @@ filters: [details]
 
 ### Six Decades of Educational Assortative Mating in South Korea: A Research Note
 {{< fa regular user >}} Park, Hyunjoon and Andrew Taeho Kim  
-{{< ai obp >}} *Demography* 62(6): 1809--1820  
+{{< fa book >}} *Demography* 62(6): 1809--1820  
 {{< ai doi-square >}} [10.1215/00703370-12321371](https://doi.org/10.1215/00703370-12321371)  
 {{< ai archive >}} Appendix: [https://atkim1.github.io/appendix/Park_Kim2025_Appendix.pdf](appendix/Park_Kim2025_Appendix.pdf)  
 
@@ -56,7 +56,7 @@ filters: [details]
 
 ### Double Disadvantage of Black, Hispanic, and Asian American Women in Earnings, Revisited
 {{< fa regular user >}} Kim, Andrew Taeho and ChangHwan Kim  
-{{< ai obp >}} *Research in Social Stratification and Mobility* 96: 101018  
+{{< fa book >}} *Research in Social Stratification and Mobility* 96: 101018  
 {{< ai doi-square >}} [10.1016/j.rssm.2025.101018](https://doi.org/10.1016/j.rssm.2025.101018)  
 ${}\circ{}$ Poster Presentation Winner, Annual Meeting of the Population Association of America, 2019
 
@@ -68,7 +68,7 @@ ${}\circ{}$ Poster Presentation Winner, Annual Meeting of the Population Associa
 
 ### Aging and the Rise in Bottom Income Inequality in Korea
 {{< fa regular user >}} Kim, ChangHwan and Andrew Taeho Kim  
-{{< ai obp >}} *Research in Social Stratification and Mobility* 89: 100882  
+{{< fa book >}} *Research in Social Stratification and Mobility* 89: 100882  
 {{< ai doi-square >}} [10.1016/j.rssm.2023.100882](https://doi.org/10.1016/j.rssm.2023.100882)  
 
 ::: {.details summary="Abstract" group="faq"}
@@ -79,7 +79,7 @@ ${}\circ{}$ Poster Presentation Winner, Annual Meeting of the Population Associa
 
 ### Is Hyper-selectivity a Root of Asian American Children's Success?
 {{< fa regular user >}} Kim, ChangHwan and Andrew Taeho Kim  
-{{< ai obp >}} *Social Science Research* 113: 102886  
+{{< fa book >}} *Social Science Research* 113: 102886  
 {{< ai doi-square >}} [10.1016/j.ssresearch.2023.102886](https://doi.org/10.1016/j.ssresearch.2023.102886)  
 
 ::: {.details summary="Abstract" group="faq"}

@@ -7,7 +7,7 @@ filters: [details]
 
 ### Who Is the “She” in the Pandemic “She-Cession”? Variation in COVID-19 Labor Market Outcomes by Gender and Family Status
 {{< fa regular user >}} Kim, Andrew Taeho, Matt Erickson, Yurong Zhang, and ChangHwan Kim  
-{{< ai obp >}} *Population Research and Policy Review* 41(3): 1325--1358  
+{{< fa book >}} *Population Research and Policy Review* 41(3): 1325--1358  
 {{< ai doi-square >}} [10.1007/s11113-021-09693-0](https://doi.org/10.1007/s11113-021-09693-0)  
 ${}\circ{}$ Media coverage: [Journalist's Resource](https://journalistsresource.org/race-and-gender/motherhood-penalty-research-covid/)  
 
@@ -19,7 +19,7 @@ ${}\circ{}$ Media coverage: [Journalist's Resource](https://journalistsresource.
 
 ### COVID-19 and the Decline in Asian American Employment
 {{< fa regular user >}} Kim, Andrew Taeho, ChangHwan Kim, Scott E. Tuttle, and Yurong Zhang (Equal Authorship)  
-{{< ai obp >}} *Research in Social Stratification and Mobility* 71: 100563  
+{{< fa book >}} *Research in Social Stratification and Mobility* 71: 100563  
 {{< ai doi-square >}} [10.1016/j.rssm.2020.100563](https://doi.org/10.1016/j.rssm.2020.100563)  
 ${}\circ{}$ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/news/ku/2020/oct/21/ku-study-finds-asian-americans-hit-hardest-by-covid-19-unemployment-but-exactly-why-is-unclear/), [Donga Science](https://www.dongascience.com/news.php?idx=40864), [Business Insider](https://www.businessinsider.com/asian-americans-hit-hardest-by-covid-19-related-unemployment-study-2020-10), [Science News](https://www.sciencenews.org/article/asian-americans-science-data-invisible-demography-violence)  
 
@@ -31,7 +31,7 @@ ${}\circ{}$ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/ne
 
 ### Has Generational Inequality Increased? Decomposition of the Between- and Within-Generational Inequality, 1999~2019
 {{< fa regular user >}} Kim, ChangHwan and Andrew Taeho Kim  
-{{< ai obp >}} *Korean Journal of Sociology* 54(4): 161--205  
+{{< fa book >}} *Korean Journal of Sociology* 54(4): 161--205  
 {{< ai doi-square >}} [10.1111/ijjs.12073](https://doi.org/10.1111/ijjs.12073)  
 김창환, 김태호. "세대 불평등은 증가하였는가? 세대 내, 세대 간 불평등 변화 요인 분석, 1999~2019." <한국사회학>  
 
@@ -45,20 +45,20 @@ ${}\circ{}$ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/ne
 
 ### Effects of Neighborhood Inequality on the Relative Distance between Objective Position and Subjective Identification
 {{< fa regular user >}} Kim, Andrew Taeho, Muncho Kim, and Seungho Ryu  
-{{< ai obp >}} *International Journal of Japanese Sociology* 27(1): 85--106  
+{{< fa book >}} *International Journal of Japanese Sociology* 27(1): 85--106  
 {{< ai doi-square >}} [10.1111/ijjs.12073](https://doi.org/10.1111/ijjs.12073)  
 
 ## 2015
 
 ### Enhanced Complexity and Systems Theory: T. Parsons and N. Luhmann
 {{< fa regular user >}} Kim, Andrew Taeho  
-{{< ai obp >}} *Korean Journal of Converging Humanities* 3(2): 77--90  
+{{< fa book >}} *Korean Journal of Converging Humanities* 3(2): 77--90  
 {{< ai doi-square >}} [10.14729/converging.k.2015.3.2.77](https://doi.org/10.14729/converging.k.2015.3.2.77)  
 김태호. "복잡성의 증대와 체계이론의 전환: 파슨스(T. Parsons)와 루만(N. Luhmann)의 비교를 중심으로." <한국융합인문학>  
 
 ### On Alienation in the Age of Uncertainty: Changes in Academic Sensibility
 {{< fa regular user >}} Kim, Andrew Taeho  
-{{< ai obp >}} *Korean Journal of Converging Humanities* 3(1): 7--24  
+{{< fa book >}} *Korean Journal of Converging Humanities* 3(1): 7--24  
 {{< ai doi-square >}} [10.14729/converging.k.2015.3.1.7](https://doi.org/10.14729/converging.k.2015.3.1.7)  
 김태호. "불확실성 시대의 낯설어짐에 대해서: 학문적 감수성의 변화를 중심으로." <한국융합인문학>  
 
@@ -66,5 +66,5 @@ ${}\circ{}$ Media coverage: [Lawrence Journal-World](https://www2.ljworld.com/ne
 
 ### The Communication Adaptiveness and Power Dynamics of the State, the Market, and Civil Society in the Information Age: The Case of Korea
 {{< fa regular user >}} Kim, Jongkil, Jongtae Kim, and Andrew Taeho Kim  
-{{< ai obp >}} *Information, Communication & Society* 17(8): 956--973  
+{{< fa book >}} *Information, Communication & Society* 17(8): 956--973  
 {{< ai doi-square >}} [10.1080/1369118X.2013.869241](https://doi.org/10.1080/1369118X.2013.869241)  
