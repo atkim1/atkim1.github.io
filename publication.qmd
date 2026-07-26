@@ -6,27 +6,27 @@ filters: [details]
 ## 2026
 
 ### Geography, Coethnic Concentration, and Earnings Disadvantage of Asian American Men
-{{< fa user >}} Kim, Andrew Taeho and ChangHwan Kim  
+{{< fa regular user >}} Kim, Andrew Taeho and ChangHwan Kim  
 {{< ai obp >}} *RSF: The Russell Sage Foundation Journal of the Social Sciences* 12(3): 50--74  
-{{< ai doi >}} [10.7758/RSF.2026.12.3.03](https://doi.org/10.7758/RSF.2026.12.3.03)  
+{{< ai doi-square >}} [10.7758/RSF.2026.12.3.03](https://doi.org/10.7758/RSF.2026.12.3.03)  
 
 ::: {.details summary="Abstract" group="faq"}
 - Asian Americans are considered a model minority due to their high socioeconomic attainments. On average, they earn more than native-born Whites, but their tendency to live in relatively high-cost areas raises the question of how geographic distribution relates to Asian American earnings advantages. Given that less-educated Asian Americans lack market negotiating power, are vulnerable to local coethnic competition and exploitation, and thus do not fit the model minority stereotype, particular attention is paid to their labor market performances. The analyses using the 2010–2019 American Community Survey uncover that, except for those with advanced degrees, Asian Americans experience a relative earnings disadvantage compared to Whites after controlling for detailed residential areas. The disadvantage for less-educated Asian Americans is exacerbated in local labor markets with higher coethnic concentration.
 :::
 
 ### Persistent Educational Advantages of Asian Immigrants' Children, 1940 to 2015--2019
-{{< fa user >}} Kim, ChangHwan and Andrew Taeho Kim  
+{{< fa regular user >}} Kim, ChangHwan and Andrew Taeho Kim  
 {{< ai obp >}} *International Migration Review* 60(2): 900--932  
-{{< ai doi >}} [10.1177/01979183241267983](https://doi.org/10.1177/01979183241267983)  
+{{< ai doi-square >}} [10.1177/01979183241267983](https://doi.org/10.1177/01979183241267983)  
 
 ::: {.details summary="Abstract" group="faq"}
 - The educational achievements of Asian American children, especially those from lower backgrounds, are substantially higher than other ethnoracial groups. Hyper-selectivity theory finds the origin of such an advantage in the double selectivity of Asian immigrants after the passage of the 1965 Immigration Act and the formation of cross-class community resources. Utilizing the 1940 linked full-count Census, 1940–2000 decennial censuses, and the 2008–2012 and 2015–2019 American Community Survey, this study tracks changes in the educational advantages of Asian immigrants’ children. Our results show that in contrast to the anticipated dependence of the educational achievements of Asian immigrants’ children on structural conditions, the educational advantages of Asian immigrants’ children have remained remarkably persistent over time and across geographical locations. The influx of highly educated Asian immigrants is not associated with an increase in the educational advantages of lower-background Asian Americans. The implications of these findings are discussed.
 :::
 
 ### The Rise in Occupational Coding Mismatches and Occupational Mobility, 1991--2020
-{{< fa user >}} Kim, Andrew Taeho and ChangHwan Kim  
+{{< fa regular user >}} Kim, Andrew Taeho and ChangHwan Kim  
 {{< ai obp >}} *Sociological Methods & Research* 55(2): 659--699  
-{{< ai doi >}} [10.1177/00491241241303517](https://doi.org/10.1177/00491241241303517)  
+{{< ai doi-square >}} [10.1177/00491241241303517](https://doi.org/10.1177/00491241241303517)  
 {{< ai osf >}} Replication Package: [https://osf.io/2u8rx/](https://osf.io/2u8rx/)  
 
 ::: {.details summary="Abstract" group="faq"}
@@ -34,9 +34,9 @@ filters: [details]
 :::
 
 ### Nursing as Ethnic Capital: Perceptions of Intergenerational Niching among Filipino Americans
-{{< fa user >}} Gambol, Brenda, Rebecca Karam, and Andrew Taeho Kim  
+{{< fa regular user >}} Gambol, Brenda, Rebecca Karam, and Andrew Taeho Kim  
 {{< ai obp >}} *Journal of Ethnic and Migration Studies* 52(5): 1218--1242  
-{{< ai doi >}} [10.1080/1369183X.2025.2584342](https://doi.org/10.1080/1369183X.2025.2584342)  
+{{< ai doi-square >}} [10.1080/1369183X.2025.2584342](https://doi.org/10.1080/1369183X.2025.2584342)  
 
 ::: {.details summary="Abstract" group="faq"}
 - Ethnic niches (jobs or sectors where an ethnic group is overrepresented) help sociologists understand immigrant mobility across generations. While ‘niche’ can describe many industries, U.S. immigration scholars have largely focused on small business ownership. As a result, studies often conclude that the second generation avoids niche work in pursuit of educational credentials, professional employment, and thus intergenerational upward mobility. We argue this conclusion stems from conflating niche work with immigrant entrepreneurship, overlooking professional niches that offer socioeconomic stability and access to the middle class. Filipino Americans, long concentrated in nursing, provide a compelling case. This study asks two questions: Are Filipinos statistically overrepresented in nursing across generations? And how do first- and second-generation Filipinos perceive the nursing niche? Drawing on American Community Survey data (2010–2019) and 54 in-depth interviews with Filipino parents and their teenage children, we find strong evidence of intergenerational niching or the maintenance of a professional ethnic niche across generations. Furthermore, contrary to prior scholarship, we find that members of this community view the persistence of the niche among the second generation positively. We demonstrate that the perception of nursing as desirable work functions as a form of ethnic capital that shapes Filipinos’ distinct mobility patterns.
@@ -45,9 +45,9 @@ filters: [details]
 ## 2025
 
 ### Six Decades of Educational Assortative Mating in South Korea: A Research Note
-{{< fa user >}} Park, Hyunjoon and Andrew Taeho Kim  
+{{< fa regular user >}} Park, Hyunjoon and Andrew Taeho Kim  
 {{< ai obp >}} *Demography* 62(6): 1809--1820  
-{{< ai doi >}} [10.1215/00703370-12321371](https://doi.org/10.1215/00703370-12321371)  
+{{< ai doi-square >}} [10.1215/00703370-12321371](https://doi.org/10.1215/00703370-12321371)  
 {{< ai archive >}} Appendix: [https://atkim1.github.io/appendix/Park_Kim2025_Appendix.pdf](appendix/Park_Kim2025_Appendix.pdf)  
 
 ::: {.details summary="Abstract" group="faq"}
@@ -55,9 +55,9 @@ filters: [details]
 :::
 
 ### Double Disadvantage of Black, Hispanic, and Asian American Women in Earnings, Revisited
-{{< fa user >}} Kim, Andrew Taeho and ChangHwan Kim  
+{{< fa regular user >}} Kim, Andrew Taeho and ChangHwan Kim  
 {{< ai obp >}} *Research in Social Stratification and Mobility* 96: 101018  
-{{< ai doi >}} [10.1016/j.rssm.2025.101018](https://doi.org/10.1016/j.rssm.2025.101018)  
+{{< ai doi-square >}} [10.1016/j.rssm.2025.101018](https://doi.org/10.1016/j.rssm.2025.101018)  
 ${}\circ{}$ Poster Presentation Winner, Annual Meeting of the Population Association of America, 2019
 
 ::: {.details summary="Abstract" group="faq"}
@@ -67,9 +67,9 @@ ${}\circ{}$ Poster Presentation Winner, Annual Meeting of the Population Associa
 ## 2024
 
 ### Aging and the Rise in Bottom Income Inequality in Korea
-{{< fa user >}} Kim, ChangHwan and Andrew Taeho Kim  
+{{< fa regular user >}} Kim, ChangHwan and Andrew Taeho Kim  
 {{< ai obp >}} *Research in Social Stratification and Mobility* 89: 100882  
-{{< ai doi >}} [10.1016/j.rssm.2023.100882](https://doi.org/10.1016/j.rssm.2023.100882)  
+{{< ai doi-square >}} [10.1016/j.rssm.2023.100882](https://doi.org/10.1016/j.rssm.2023.100882)  
 
 ::: {.details summary="Abstract" group="faq"}
 - Korea is one of the world’s fastest-aging societies, with poverty and low income prevalent among the elderly population. Unlike other advanced economies, where top income inequality has driven the rise in income inequality, fluctuations in income inequality in Korea in recent decades have been dominated by changes in the bottom half of the income distribution. Using data from the 1998–2016 Household Income and Expenditure Survey and the 2012–2019 Survey of Household Finances and Living Conditions, this study explores the extent to which population aging is associated with changes in the top (P90P50) and bottom (P50P10) income inequalities by applying recentered influence function decomposition technique. Our results indicate that population aging, or the compositional change in age distribution, is the largest contributor to the rise in bottom income inequality during the 21st century. Other factors, including the composition and rate effects of education, rate effect of age, and structural changes in labor markets, account for, at most, a small portion of the changes. The implications of these findings are discussed.
@@ -78,9 +78,9 @@ ${}\circ{}$ Poster Presentation Winner, Annual Meeting of the Population Associa
 ## 2023
 
 ### Is Hyper-selectivity a Root of Asian American Children's Success?
-{{< fa user >}} Kim, ChangHwan and Andrew Taeho Kim  
+{{< fa regular user >}} Kim, ChangHwan and Andrew Taeho Kim  
 {{< ai obp >}} *Social Science Research* 113: 102886  
-{{< ai doi >}} [10.1016/j.ssresearch.2023.102886](https://doi.org/10.1016/j.ssresearch.2023.102886)  
+{{< ai doi-square >}} [10.1016/j.ssresearch.2023.102886](https://doi.org/10.1016/j.ssresearch.2023.102886)  
 
 ::: {.details summary="Abstract" group="faq"}
 - Asian immigrants' children, even those from lower-backgrounds, tend to acquire higher levels of education than other ethnoracial groups, including White natives. Asian culture is often cited as a conventional explanation. The hyper-selectivity hypothesis challenges conventional wisdom by arguing that Asian American culture is an outcome of the community resources associated with hyper-selectivity. In this study, we assess the validity of the hyper-selectivity theory by examining the association between the magnitude of hyper-selectivity measured by the proportion of the BA + degree holders among the 1st generation Asian immigrants across communities and the likelihood of school enrollment for 1.5 and 2nd + generation Asian American children. Our results cast doubt on the hyper-selectivity theory. Asian American children's school enrollment is associated with the magnitude of educational selectivity among Asian immigrants for neither high school nor college. The benefits of hyper-selectivity do not seem to be cross-class or cross Asian ethnic groups. The higher the hyper-selectivity in a community is, the larger the education gap between upper- and lower-background Asian American children. The implications of these findings are discussed.
