@@ -39,7 +39,7 @@ format:
     theme: 
       - cosmo
       - styles.scss
-    fontsize: 0.95rem
+    fontsize: 1.0rem
     toc: true
     toc-expand: 3
     smooth-scroll: true
