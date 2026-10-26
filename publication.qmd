@@ -9,7 +9,7 @@ filters: [details]
 
 ### One Overworking Breadwinner or Two Earners? Family Economic Standard of Living by Breadwinner Arrangement, 1960 to 2018--2022
 {{< fa regular user >}} Kim, Andrew Taeho  
-{{< fa book >}} *Social Forces* 105(2): 639--664
+{{< fa book >}} *Social Forces* 105(2): 639--664  
 {{< ai doi-square >}} [10.1093/sf/soag122](https://doi.org/10.1093/sf/soag122)  
 {{< ai archive >}} Appendix: [https://atkim.net/appendix/Kim2026_SF_Appendix_261021.pdf](appendix/Kim2026_SF_Appendix_261021.pdf){target="_blank"}  
 
