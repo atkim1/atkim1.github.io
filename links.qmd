@@ -346,6 +346,8 @@ $\cdot$
 [Andrew Gelman](https://statmodeling.stat.columbia.edu/)
 $\cdot$
 [Pilar Gonalons-Pons](https://www.pilargonalons.com/)
+:
+[Care Equality Lab](https://web.sas.upenn.edu/care-equality-lab/)
 $\cdot$
 [Ohjae Gowen](https://ohjaegowen.com/)
 $\cdot$
@@ -410,6 +412,8 @@ $\cdot$
 [Haoming Song](https://haomingsong.digitalscholarship.brown.edu/)
 $\cdot$
 [Xi Song](https://www.xisong.me/)
+:
+[Occupation Lab](https://occupationlab.org/)
 $\cdot$
 [Pildoo Sung](https://pildoo.github.io/)
 $\cdot$
